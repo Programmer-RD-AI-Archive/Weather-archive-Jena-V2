@@ -18,3 +18,5 @@ deep-learning
 artifical-intelligense
 
 rnn
+
+https://wandb.ai/ranuga-d/Weather-archive-Jena-V2
