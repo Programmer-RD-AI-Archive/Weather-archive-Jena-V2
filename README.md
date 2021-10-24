@@ -16,3 +16,5 @@ machine-learning
 deep-learning
 
 artifical-intelligense
+
+rnn
